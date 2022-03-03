@@ -7,12 +7,12 @@ import plotly.graph_objs as go
 
 ########### Define your variables ######
 
-myheading1='How to use callbacks'
-tabtitle = 'xkcd'
-list_of_options=['box plot', 'correlation', 'git commit', 'scatterplot']
-list_of_images=['outlier.png', 'correlation.png', 'gitcommit.jpg', 'scatterplot.png', 'good_code.png']
-sourceurl = 'https://xkcd.com/'
-githublink = 'https://github.com/plotly-dash-apps/203-radio-callbacks'
+myheading1='Lesson3 - Definitions of AI'
+tabtitle = 'AI_Defs'
+list_of_options=['AI', 'Algorithms', 'Machine Learning', 'Deep Learning']
+list_of_images=['AI.jpg', 'algo.jpg', 'ml.jpg', 'deepl.png', 'scary.jpg']
+sourceurl = 'https://google.com/'
+githublink = 'https://github.com/vharkar/203-radio-callbacks'
 
 
 ########## Set up the chart
